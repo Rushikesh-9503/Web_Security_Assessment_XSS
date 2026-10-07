@@ -126,7 +126,7 @@ These controls should be implemented as complementary layers rather than relying
 
 The complete assessment contains the methodology, technical analysis, evidence, findings, attack progression and mitigation recommendations.
 
-**[View the full XSS Vulnerability Assessment Report](./report/XSS_Vulnerability_Assessment_Report.pdf)**
+**[View the full XSS Vulnerability Assessment Report](./report/Web_Security_Assessment_XSS_Report.pdf)**
 
 ## Disclaimer
 
